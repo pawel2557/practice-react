@@ -1,31 +1,31 @@
 {
     "products": [{
         "id": 10001,
-        "name": "Bagno",
+        "name": "item1",
         "price": 292,
         "in_stock": true
     },
     {
         "id": 10002,
-        "name": "Pistolet",
+        "name": "item2",
         "price": 29223,
         "in_stock": false
     },
     {
         "id": 10013,
-        "name": "Rewolwer",
+        "name": "item3",
         "price": 232,
         "in_stock": true
     },
     {
         "id": 10033,
-        "name": "Ak47",
+        "name": "item4",
         "price": 32,
         "in_stock": false
     },
     {
         "id": 1003,
-        "name": "awp",
+        "name": "item5",
         "price": 29232,
         "in_stock": true
     }
