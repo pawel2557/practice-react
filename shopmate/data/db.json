@@ -1,0 +1,22 @@
+{
+    "products": [{
+        "id": 10001,
+        "name": "Basics to adasd",
+        "pirce": 29,
+        "in_stock": true
+    },
+    {
+        "id": 10002,
+        "name": "Basics to123123123435sdfgadf adasd",
+        "pirce": 2923,
+        "in_stock": true
+    },
+    {
+        "id": 10003,
+        "name": "Basics taDSRF  234WQDAsdQWDo adasd",
+        "pirce": 29232,
+        "in_stock": true
+    }
+    
+]
+}
