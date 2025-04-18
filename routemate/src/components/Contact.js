@@ -1,5 +1,14 @@
+import { useNavigate } from "react-router-dom";
 export const Contact = () => {
-    return (
-        <div>Contact</div>
-    )
+    const navigate = useNavigate();
+
+const handleSubmit = () => {
+    navigate("/");
+}
+return (
+    <>
+        <div className="component">Contact</div>
+        <button onClick={handleSubmit}>Back to home</button>
+    </>
+)
 }
