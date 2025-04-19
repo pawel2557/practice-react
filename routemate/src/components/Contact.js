@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Outlet } from "react-router-dom";
 export const Contact = () => {
     const navigate = useNavigate();
 
@@ -9,6 +9,7 @@ return (
     <>
         <div className="component">Contact</div>
         <button onClick={handleSubmit}>Back to home</button>
+        <Outlet></Outlet>
     </>
 )
 }
