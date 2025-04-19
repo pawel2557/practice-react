@@ -6,10 +6,10 @@ const handleSubmit = () => {
     navigate("/");
 }
 return (
-    <>
+    <main>
         <div className="component">Contact</div>
         <button onClick={handleSubmit}>Back to home</button>
         <Outlet></Outlet>
-    </>
+    </main>
 )
 }
